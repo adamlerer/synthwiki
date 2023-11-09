@@ -39,6 +39,7 @@ pip install anthropic
 
 ### Citation
 
+```
 @misc{peysakhovich2023attention,
       title={Attention Sorting Combats Recency Bias In Long Context Language Models}, 
       author={Alexander Peysakhovich and Adam Lerer},
@@ -47,3 +48,4 @@ pip install anthropic
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+```
